@@ -1,0 +1,8 @@
+plugin/
+lazy-lock.json
+*.swp
+*.swo
+*~
+.DS_Store
+.idea/
+.vscode/
